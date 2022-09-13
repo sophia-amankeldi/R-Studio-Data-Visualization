@@ -1,11 +1,3 @@
-########################################
-# ENMA 646  Spring 2022
-# Homework 3
-# Student name: Sophia A
-# email: saman001@odu.edu
-# Date: 
-########################################
-
 install.packages("ggplot2")
 library(ggplot2)
 install.package("dplyr")
